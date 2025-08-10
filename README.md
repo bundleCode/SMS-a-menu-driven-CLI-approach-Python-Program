@@ -1,1 +1,1 @@
-# School Management System (SMS)-a-menu-driven-CLI-approach-Python-Program
+# Student Management System (SMS)-a-menu-driven-CLI-approach-Python-Program
